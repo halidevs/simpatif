@@ -147,6 +147,13 @@
                         <i class="fa fa-bars"></i>
                     </button>
 
+                    <div
+                        class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100">
+                        <span class="text-primary font-weight-bold">
+                            Sistem Informasi Arsip Ijazah Siswa | Dinas Pendidikan & Kebudayaan kab.Konawe
+                        </span>
+                    </div>
+
                     <!-- Topbar Navbar -->
                     <ul class="navbar-nav ml-auto">
                         <div class="topbar-divider d-none d-sm-block"></div>
